@@ -1,0 +1,8 @@
+{
+  "buckets": 4,
+  "segments": 2,
+  "step": 1,
+  "more_steps": 7,
+  "migration_invariant": true,
+  "data": {"a": "1", "b": "2", "c": "3", "d": "4", "e": "5"}
+}
